@@ -1,0 +1,11 @@
+los datos son: 
+
+Nombre: roberto 
+Apellido: lozano
+---------
+Nombre: gael 
+Apellido: lopez
+---------
+Nombre: frank 
+Apellido: salazar
+---------
