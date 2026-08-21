@@ -3,7 +3,6 @@
 minutos = float(input("ingresa los minutos que lleva la cafeteria abierta: "))
 hora_enteras =  minutos // 60
 tiempo_minutos = minutos % 60 
-
 print(f' llevas abierto : {hora_enteras} horas y {tiempo_minutos} minutos')
 
 

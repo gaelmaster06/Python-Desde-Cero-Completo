@@ -5,7 +5,8 @@ latte_irlandesa = 68
 cantidad_pedida = int(input('ingresa la cantidad de lattes de crema irlandesa que compraste: '))
 
 precio_sin_descuento= latte_irlandesa * cantidad_pedida
-#lo comentado fue mi logica pero esta manera es mas efectiva
+#lo comentado fue mi logica pero esta manera es mas efectiva pór que se necesita menos codigo, claude code trabajo sobre en los codiciones y no tiene que agregar tantas variables
+
 #descuento_5= precio_sin_descuento*5/100 
 #precio_final_5= precio_sin_descuento-descuento_5
 
